@@ -1,0 +1,4 @@
+repository "tengo@ayzit@cloud"
+  path "/"
+    br "/main"
+    co "/main"
